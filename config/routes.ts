@@ -71,6 +71,11 @@ export default [
         name: 'second-page',
         component: './Practice/prac_2',
       },
+      {
+        path: '/practice/prac_3',
+        name: 'third-page',
+        component: './Practice/prac_3',
+      },
     ],
   },
   {
