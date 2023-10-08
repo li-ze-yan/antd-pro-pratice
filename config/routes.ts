@@ -126,6 +126,11 @@ export default [
         name: 'thirteenth-page',
         component: './Practice/prac_13',
       },
+      {
+        path: '/practice/prac_14',
+        name: 'fourteenth-page',
+        component: './Practice/prac_14',
+      },
     ],
   },
   {

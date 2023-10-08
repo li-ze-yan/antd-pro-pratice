@@ -22,7 +22,8 @@ const Index: React.FC = () => {
         initialValues={{
           name: '蚂蚁设计有限公司',
           name2: '蚂蚁设计集团',
-          useMode: 'chapter',
+          useMode1: 'chapter',
+          useMode2: 'chapter',
         }}
       >
         <ProFormText
@@ -47,11 +48,11 @@ const Index: React.FC = () => {
                 options={[
                   {
                     value: 'chapter',
-                    label: '盖章后生效',
+                    label: '盖章后生效1',
                   },
                 ]}
                 width="md"
-                name="useMode"
+                name="useMode1"
                 label={`与《${name || ''}》 与 《${name2?.fuck || ''}》合同约定生效方式`}
               />
             );
@@ -69,7 +70,7 @@ const Index: React.FC = () => {
                   },
                 ]}
                 width="md"
-                name="useMode"
+                name="useMode2"
                 label={`与《${form.getFieldValue('name')}》合同约定生效方式`}
               />
             );
