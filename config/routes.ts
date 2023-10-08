@@ -86,6 +86,16 @@ export default [
         name: 'fifth-page',
         component: './Practice/prac_5',
       },
+      {
+        path: '/practice/prac_6',
+        name: 'sixth-page',
+        component: './Practice/prac_6',
+      },
+      {
+        path: '/practice/prac_7',
+        name: 'seventh-page',
+        component: './Practice/prac_7',
+      },
     ],
   },
   {
