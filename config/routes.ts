@@ -111,6 +111,11 @@ export default [
         name: 'tenth-page',
         component: './Practice/prac_10',
       },
+      {
+        path: '/practice/prac_11',
+        name: 'eleventh-page',
+        component: './Practice/prac_11',
+      },
     ],
   },
   {
