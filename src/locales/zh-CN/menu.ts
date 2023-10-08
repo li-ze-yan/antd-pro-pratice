@@ -36,6 +36,7 @@ export default {
   'menu.list.practice-list.ninth-page': '练习9',
   'menu.list.practice-list.tenth-page': '练习10',
   'menu.list.practice-list.eleventh-page': '练习11',
+  'menu.list.practice-list.twelfth-page': '练习12',
   'menu.list.card-list': '卡片列表',
   'menu.list.search-list': '搜索列表',
   'menu.list.search-list.articles': '搜索列表（文章）',
