@@ -101,6 +101,11 @@ export default [
         name: 'eighth-page',
         component: './Practice/prac_8',
       },
+      {
+        path: '/practice/prac_9',
+        name: 'ninth-page',
+        component: './Practice/prac_9',
+      },
     ],
   },
   {
