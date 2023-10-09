@@ -13,7 +13,7 @@ import {
 import { Card, Switch } from 'antd';
 import { useState } from 'react';
 
-// 选择器不同条件的查询
+// 日期表单
 const Index: React.FC = () => {
   const [readonly, setReadonly] = useState(false);
   return (
