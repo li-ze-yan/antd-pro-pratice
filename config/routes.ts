@@ -151,6 +151,11 @@ export default [
         name: 'eighteenth-page',
         component: './Practice/prac_18',
       },
+      {
+        path: '/practice/prac_19',
+        name: 'ninteenth-page',
+        component: './Practice/prac_19',
+      },
     ],
   },
   {
