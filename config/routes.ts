@@ -166,6 +166,11 @@ export default [
         name: 'twenty-one-page',
         component: './Practice/prac_21',
       },
+      {
+        path: '/practice/prac_22',
+        name: 'twenty-two-page',
+        component: './Practice/prac_22',
+      },
     ],
   },
   {
