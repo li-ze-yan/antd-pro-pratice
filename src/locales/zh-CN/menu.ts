@@ -47,6 +47,7 @@ export default {
   'menu.list.practice-list.twentieth-page': '练习20',
   'menu.list.practice-list.twenty-one-page': '练习21',
   'menu.list.practice-list.twenty-two-page': '练习22',
+  'menu.list.practice-list.twenty-three-page': '练习23',
   'menu.list.card-list': '卡片列表',
   'menu.list.search-list': '搜索列表',
   'menu.list.search-list.articles': '搜索列表（文章）',
